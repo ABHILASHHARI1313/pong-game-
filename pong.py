@@ -1,7 +1,7 @@
 # Pong using Python3
 
 import turtle
-import winsound
+
 
 win = turtle.Screen() #To create a window
 win.title("  PONG by Abhilash_Hari  ")
